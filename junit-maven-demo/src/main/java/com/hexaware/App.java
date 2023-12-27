@@ -8,6 +8,6 @@ public class App
 {
    public String welcome(String message)
    {
-	   return "welcome,"+message;
+	   return "Welcome,"+message;
    }
 }
